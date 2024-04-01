@@ -1,0 +1,12 @@
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaOdevi.csproj.AssemblyReference.cache
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.FrmButtonKontrol.resources
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.FrmTextBoxKontrol.resources
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.Konular.resources
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.Properties.Resources.resources
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaOdevi.csproj.GenerateResource.cache
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaOdevi.csproj.CoreCompileInputs.cache
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.exe
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\obj\Debug\UygulamaÖdevi.pdb
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\bin\Debug\UygulamaÖdevi.exe.config
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\bin\Debug\UygulamaÖdevi.exe
+D:\projeler\c#\UygulamaÖdevi\UygulamaÖdevi\bin\Debug\UygulamaÖdevi.pdb
